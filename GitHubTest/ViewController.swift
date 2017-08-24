@@ -13,6 +13,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         print("GitHub wordt uitgevoerd")
+        print("De regel wordt normaals uitgevoerd")
         // Do any additional setup after loading the view, typically from a nib.
     }
 
